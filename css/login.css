@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+a {
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.site {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.site .site__left {
+  background-image: url(../img/image\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.site .site__right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.site .site__right form {
+  width: 65%;
+  padding: 10px;
+}
+.site .site__right form .form__title span {
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-weight: 300;
+}
+.site .site__right form .form__title h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+}
+.site .site__right form label {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.site .site__right form label a {
+  float: right;
+}
+.site .site__right form input {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: 1px solid #E8E8E8;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.site .site__right form input[type=radio] {
+  width: 30px;
+  float: left;
+  margin-top: 3px;
+}
+.site .site__right form button[type=submit] {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: 1px solid #E8E8E8;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #04C35C;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}
+.site .site__right form button {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: 1px solid #E8E8E8;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #000;
+  color: white;
+  font-weight: 600;
+  font-size: 17px;
+}
+.site .site__right form button i {
+  font-size: 21px;
+}
+.site .site__right form p {
+  position: relative;
+  top: 100px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}/*# sourceMappingURL=style.css.map */

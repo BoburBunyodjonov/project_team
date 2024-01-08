@@ -1,0 +1,112 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "imgUrl": "./img/img1.png",
+        "cash": false,
+        "rating": 5,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "4 500₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 2,
+        "imgUrl": "./img/img2.png",
+        "cash": true,
+        "rating": 3,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "7 000₽",
+        "oldPrice": "12 000₽"
+      },
+      {
+        "id": 3,
+        "imgUrl": "./img/img3.png",
+        "cash": false,
+        "rating": 4,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "6 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 4,
+        "imgUrl": "./img/img1.png",
+        "cash": false,
+        "rating": 5,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 5,
+        "imgUrl": "./img/img2.png",
+        "cash": true,
+        "rating": 2,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 6,
+        "imgUrl": "./img/img3.png",
+        "cash": false,
+        "rating": 1,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 7,
+        "imgUrl": "./img/img1.png",
+        "cash": true,
+        "rating": 4,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 8,
+        "imgUrl": "./img/img2.png",
+        "cash": true,
+        "rating": 5,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 9,
+        "imgUrl": "./img/img3.png",
+        "cash": false,
+        "rating": 2,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 10,
+        "imgUrl": "./img/img1.png",
+        "cash": false,
+        "rating": 5,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 11,
+        "imgUrl": "./img/img2.png",
+        "cash": true,
+        "rating": 4,
+        "title": "Дверной Замок Golden Soft для офиса",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      },
+      {
+        "id": 12,
+        "imgUrl": "./img/img3.png",
+        "cash": false,
+        "rating": 5,
+        "title": "Вариативный замок Golden Soft для отеля",
+        "newPrice": "7 000₽",
+        "oldPrice": "8 000₽"
+      }
+    ]
+  }
